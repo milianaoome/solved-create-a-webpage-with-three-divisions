@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-create-a-webpage-with-three-divisions
+<br>
+Create a webpage with three divisions. Division 1 occupies the left-side of the page with a few links of your choice. Division 2 and 3 have the same width. You may use % to specify the width. For example, for division 1: width:20%, and for division 2 and 3: width:80%.  Division 2 is used to display an image of your choice using the background-image property. Division 3 is to show the double-declining depreciation table, and has a background color of your choice. The title of each division is positioned at the center of the division with a blue color.  Submit the source code with the screenshot.
